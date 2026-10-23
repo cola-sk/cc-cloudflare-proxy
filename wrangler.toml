@@ -1,0 +1,7 @@
+name = "claude-code-proxy"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+CF_ACCOUNT_ID = "30e602e3ab4738bec683e70b0bf37beb"
+
